@@ -31,7 +31,7 @@ public class Main {
                     String addId = scanner.nextLine();
                     System.out.print("Nombre de usuario: ");
                     String addUsername = scanner.nextLine();
-                    System.out.print("Contrase: ");
+                    System.out.print("ContraseNASS: ");
                     String addPassword = scanner.nextLine();
                     System.out.print("Nombre completo: ");
                     String addName = scanner.nextLine();
